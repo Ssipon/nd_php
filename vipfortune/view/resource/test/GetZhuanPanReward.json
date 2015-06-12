@@ -1,0 +1,7 @@
+{
+	"success":1,					
+	"fail_info":"请求失败弹窗提示文字",	
+	"data":{
+		"reward":3
+		}
+}

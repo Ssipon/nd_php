@@ -1,0 +1,11 @@
+{
+	"success":1,					
+	"fail_info":"请求失败弹窗提示文字",	
+	"data":{
+		"type":2,
+		"current":200,
+		"total":500
+		}
+	
+	
+}
